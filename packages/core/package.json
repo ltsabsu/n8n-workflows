@@ -44,7 +44,7 @@
     "@n8n/decorators": "workspace:*",
     "@n8n/di": "workspace:*",
     "@sentry/node": "catalog:",
-    "axios": "catalog:",
+    "axios": "1.13.5",
     "callsites": "catalog:",
     "chardet": "2.0.0",
     "cron": "3.1.7",
