@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@langchain/anthropic": "catalog:",
-    "@langchain/core": "catalog:",
+    "@langchain/core": "1.1.14",
     "@langchain/langgraph": "0.2.45",
     "@langchain/openai": "catalog:",
     "@n8n/config": "workspace:*",
